@@ -1,5 +1,5 @@
 @import '../static/styles/docs.css' layer(base);
-@import '../node_modules/flowbite/dist/flowbite.css' layer(base);
+/* @import '../node_modules/flowbite/dist/flowbite.css' layer(base); */
 
 /* Write your global styles here, in PostCSS syntax */
 @import 'tailwindcss';
